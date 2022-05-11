@@ -1,0 +1,11 @@
+{
+    "apiUrl": "http://localhost:3000/",
+    "apiUrlLive": "http://ec2-18-217-77-204.us-east-2.compute.amazonaws.com:9191",
+    "jobPostUrl":"http://ec2-18-217-77-204.us-east-2.compute.amazonaws.com:9191/general/addNewOpening",
+    "userRegisterUrl":"http://ec2-18-217-77-204.us-east-2.compute.amazonaws.com:9191/general/registerNewUser",
+    "userLoginUrl": "http://ec2-18-217-77-204.us-east-2.compute.amazonaws.com:9191/general/userLogin",
+    "getJobsUrl": "http://ec2-18-217-77-204.us-east-2.compute.amazonaws.com:9191/general/getAllAvailableOpenings",
+    "getUserUrl":"http://ec2-18-217-77-204.us-east-2.compute.amazonaws.com:9191/general/getAllUsers",
+    "getJobApplicationUrl":"http://ec2-18-217-77-204.us-east-2.compute.amazonaws.com:9191/general/getAllJobApplications",
+    "getDownloadResume":"http://ec2-18-217-77-204.us-east-2.compute.amazonaws.com:9191/general/downloadFile "
+}

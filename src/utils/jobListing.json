@@ -1,0 +1,251 @@
+{
+  "jobs": [
+    {
+      "jobId": 1,
+      "jobTitle": "Doctor",
+      "jobBriefDescription": "therapist",
+      "jobDescription": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests. ",
+      "jobKeyword": "Nursing",
+      "jobCategory": "A",
+      "jobSalary": "2000",
+      "postedBy": "admin",
+      "postedOn": "2022-01-03",
+      "validTill": "2023-01-03",
+      "active": true
+    },
+    {
+      "jobId": 2,
+      "jobTitle": "Therapist",
+      "jobBriefDescription": "therapist",
+      "jobDescription": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests. ",
+      "jobKeyword": "Nursing",
+      "jobCategory": "A",
+      "jobSalary": "2000",
+      "postedBy": "admin",
+      "postedOn": "2022-01-03",
+      "validTill": "2023-01-03",
+      "active": true
+    },
+    {
+      "jobId": 3,
+      "jobTitle": "Assistant Therapist",
+      "jobBriefDescription": "therapist",
+      "jobDescription": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests. ",
+      "jobKeyword": "Nursing",
+      "jobCategory": "A",
+      "jobSalary": "2000",
+      "postedBy": "admin",
+      "postedOn": "2022-01-03",
+      "validTill": "2023-01-03",
+      "active": true
+    },
+    {
+      "jobId": 4,
+      "jobTitle": "Nurse",
+      "jobBriefDescription": "therapist",
+      "jobDescription": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests. ",
+      "jobKeyword": "Nursing",
+      "jobCategory": "A",
+      "jobSalary": "2000",
+      "postedBy": "admin",
+      "postedOn": "2022-01-03",
+      "validTill": "2023-01-03",
+      "active": true
+    },
+    {
+      "jobTitle": "Testing Job",
+      "jobBriefDescription": "testing Job",
+      "jobDescription": "Tetsong Job",
+      "jobKeyword": "keyyekk",
+      "jobCategory": "cattat",
+      "jobSalary": "1212",
+      "validTill": "2022-04-16",
+      "postedBy": "Admin",
+      "postedOn": "2022-04-23T10:49:33.863Z",
+      "active": true,
+      "id": 32694,
+      "jobId": 36000
+    },
+    {
+      "jobTitle": "Ttest",
+      "jobBriefDescription": "etete",
+      "jobDescription": "tewwef",
+      "jobKeyword": "teyt",
+      "jobCategory": "tsy",
+      "jobSalary": "2323",
+      "validTill": "2022-04-22",
+      "postedBy": "Admin",
+      "postedOn": "2022-04-23T20:36:45.389Z",
+      "active": true,
+      "id": 65444,
+      "jobId": 45770
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "userlist": [
+    {
+      "userId": 1,
+      "empCode": "GU-09",
+      "salutation": "Mr.",
+      "firstName": "New7",
+      "lastName": "user",
+      "emailId": "new7.user@gmail.com",
+      "gender": "M",
+      "phone": "551-226-2948",
+      "alternatePhone": "952-212-0594",
+      "socialSecurityNumber": "123-45-6789",
+      "drivingLicenceNumber": "DL-IL",
+      "supervisorId": null,
+      "createdBy": "admin",
+      "updatedBy": "Sudeen",
+      "middleName": "R",
+      "dateOfBirth": "1994-12-31",
+      "picture": null,
+      "createdOn": "2022-04-15T11:51:40.750+00:00",
+      "updatedOn": "2022-04-21T06:23:32.932+00:00",
+      "userAuth": {
+        "userAuthId": 15,
+        "userName": "new7",
+        "password": "user",
+        "roles": "GUEST",
+        "active": "true",
+        "createdOn": "2022-04-15T11:51:40.750+00:00",
+        "createdBy": "admin",
+        "loginAttempt": 0,
+        "updatedOn": "2022-04-21T06:23:32.932+00:00"
+      }
+    },
+    {
+      "userId": 2,
+      "empCode": "GU-01",
+      "salutation": "Mr.",
+      "firstName": "New7",
+      "lastName": "user",
+      "emailId": "new7.user@gmail.com",
+      "gender": "M",
+      "phone": "551-226-2948",
+      "alternatePhone": "952-212-0594",
+      "socialSecurityNumber": "123-45-6789",
+      "drivingLicenceNumber": "DL-IL",
+      "supervisorId": null,
+      "createdBy": "admin",
+      "updatedBy": "Sudeen",
+      "middleName": "R",
+      "dateOfBirth": "1994-12-31",
+      "picture": null,
+      "createdOn": "2022-04-15T11:51:40.750+00:00",
+      "updatedOn": "2022-04-21T06:23:32.932+00:00",
+      "userAuth": {
+        "userAuthId": 15,
+        "userName": "new7",
+        "password": "user",
+        "roles": "GUEST",
+        "active": "true",
+        "createdOn": "2022-04-15T11:51:40.750+00:00",
+        "createdBy": "admin",
+        "loginAttempt": 0,
+        "updatedOn": "2022-04-21T06:23:32.932+00:00"
+      }
+    },
+    {
+      "userId": 3,
+      "empCode": "GU-09",
+      "salutation": "Mr.",
+      "firstName": "New7",
+      "lastName": "user",
+      "emailId": "new7.user@gmail.com",
+      "gender": "M",
+      "phone": "551-226-2948",
+      "alternatePhone": "952-212-0594",
+      "socialSecurityNumber": "123-45-6789",
+      "drivingLicenceNumber": "DL-IL",
+      "supervisorId": null,
+      "createdBy": "admin",
+      "updatedBy": "Sudeen",
+      "middleName": "R",
+      "dateOfBirth": "1994-12-31",
+      "picture": null,
+      "createdOn": "2022-04-15T11:51:40.750+00:00",
+      "updatedOn": "2022-04-21T06:23:32.932+00:00",
+      "userAuth": {
+        "userAuthId": 15,
+        "userName": "new7",
+        "password": "user",
+        "roles": "GUEST",
+        "active": "true",
+        "createdOn": "2022-04-15T11:51:40.750+00:00",
+        "createdBy": "admin",
+        "loginAttempt": 0,
+        "updatedOn": "2022-04-21T06:23:32.932+00:00"
+      }
+    },
+    {
+      "id": 59851,
+      "userId": 68614,
+      "empCode": "GU-03",
+      "firstName": "Anup",
+      "lastName": "Anup",
+      "emailId": "anup@test.com",
+      "createdBy": "Admin",
+      "createdOn": "2022-04-24T11:24:12.021Z",
+      "updatedOn": "2022-04-24T11:24:12.021Z",
+      "userAuth": {
+        "userAuthId": 68614,
+        "userName": "anuptest",
+        "password": "123",
+        "roles": "GUEST",
+        "active": "true",
+        "createdOn": "2022-04-24T11:24:12.021Z",
+        "createdBy": "Admin",
+        "updatedOn": "2022-04-24T11:24:12.021Z"
+      }
+    }
+  ],
+  "newsupdates": [
+    {
+      "newId": 1,
+      "newHeading": "Add 1 cup of frozen peas along with the mussels, if you like."
+    },
+    {
+      "newId": 2,
+      "newHeading": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests."
+    },
+    {
+      "newId": 3,
+      "newHeading": "Add 1 cup of frozen peas along with the mussels, if you like."
+    },
+    {
+      "newId": 4,
+      "newHeading": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests."
+    },
+    {
+      "id": 5,
+      "msgId": 5,
+      "msgContent": "New Message received"
+    }
+  ],
+  "mymessages": [
+    {
+      "id": 1,
+      "msgId": 1,
+      "msgContent": "New job posted for doctor"
+    },
+    {
+      "id": 2,
+      "msgId": 2,
+      "msgContent": "New job posted for supervisor"
+    },
+    {
+      "id": 3,
+      "msgId": 3,
+      "msgContent": "Application received for doctor job"
+    },
+    {
+      "id": 4,
+      "msgId": 4,
+      "msgContent": "Application received for supervisor job"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+    "apiUrl": "http://localhost:3000/",
+    "jobPostUrl":"http://localhost:4100/jobs",
+    "userRegisterUrl":"http://localhost:4100/userlist",
+    "userLoginUrl": "http://localhost:4100/userlist",
+    "getJobsUrl": "http://ec2-18-217-77-204.us-east-2.compute.amazonaws.com:9191/general/getAllAvailableOpenings",
+    "getUserUrl":"http://localhost:4100/userlist"
+}
